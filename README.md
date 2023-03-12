@@ -1,2 +1,2 @@
 # .vimrc
-My .vimrc Demo
+My .vimrc
