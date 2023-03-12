@@ -1,5 +1,5 @@
 " git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-" Vundle VIM
+" Vundle VIM demo
 set nocompatible  "vim over vi
 filetype off      "disable filetype before Vundle
 
